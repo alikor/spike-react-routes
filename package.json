@@ -1,0 +1,33 @@
+{
+  "name": "spike-react-routes",
+  "version": "1.0.0",
+  "description": "Spike project for testing react routes",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alikor/spike-react-routes.git"
+  },
+  "author": "Madu Alikor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alikor/spike-react-routes/issues"
+  },
+  "homepage": "https://github.com/alikor/spike-react-routes#readme",
+  "devDependencies": {
+    "babel-cli": "^6.10.1",
+    "babel-core": "^6.10.4",
+    "babel-loader": "^6.2.4",
+    "babel-preset-es2015": "^6.9.0",
+    "babel-preset-react": "^6.11.1",
+    "html-webpack-plugin": "^2.22.0",
+    "react-hot-loader": "^1.3.0",
+    "webpack": "^1.13.1",
+    "webpack-dev-server": "^1.12.1"
+  },
+  "dependencies": {
+    "react-router": "^2.5.2"
+  }
+}
